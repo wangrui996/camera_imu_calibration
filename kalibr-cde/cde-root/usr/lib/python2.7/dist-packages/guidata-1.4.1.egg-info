@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: guidata
+Version: 1.4.1
+Summary: guidata is a set of basic GUIs to edit and display objects of many kinds
+Home-page: http://www.cea.fr
+Author: Pierre Raybaut
+Author-email: pierre.raybaut@cea.fr
+License: UNKNOWN
+Download-URL: http://guidata.googlecode.com/files/guidata-1.4.1.zip
+Description: Set of basic GUIs to edit and display objects of many kinds:
+            - integers, floats, strings ;
+            - ndarrays (NumPy's n-dimensional arrays) ;
+            - etc.
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: OS Independent
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 2.6
+Requires: PyQt4 (>4.3)

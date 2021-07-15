@@ -1,0 +1,1 @@
+../../../../share/pyshared/pytz-2011k.egg-info/top_level.txt

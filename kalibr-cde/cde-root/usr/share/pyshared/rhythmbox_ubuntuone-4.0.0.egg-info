@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rhythmbox-ubuntuone
+Version: 4.0.0
+Summary: Ubuntu One Rhythmbox plug-in
+Home-page: https://launchpad.net/rhythmbox-ubuntuone
+Author: Ubuntu One Developers
+Author-email: ubuntuone-users@lists.launchpad.net
+License: LGPL v3
+Description: A plug-in to integrate Ubuntu One in Rhythmbox.
+Platform: UNKNOWN

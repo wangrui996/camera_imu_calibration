@@ -1,0 +1,1 @@
+./../../../../..//usr/share/pyshared/rospkg/__init__.py

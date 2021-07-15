@@ -1,0 +1,1 @@
+../../../../share/pyshared/lxml-2.3.5.egg-info/top_level.txt

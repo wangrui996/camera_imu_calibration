@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: gazebo_ros
+Version: 2.3.5
+Summary: Provides ROS plugins that offer message and service publishers for interfacing with <a href="http://gazebosim.org">Gazebo</a> through ROS.
+    Formally simulator_gazebo/gazebo
+Home-page: http://gazebosim.org/wiki/Tutorials#ROS_Integration
+Author: John Hsu <hsu@osrfoundation.org>, Dave Coleman <davetcoleman@gmail.com>
+Author-email: UNKNOWN
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN

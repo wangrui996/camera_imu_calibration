@@ -1,0 +1,1 @@
+../../../../share/pyshared/distro_info-0.10.egg-info/top_level.txt

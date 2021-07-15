@@ -1,0 +1,1 @@
+./../../../../..//usr/share/pyshared/bloom-0.5.9.egg-info/top_level.txt

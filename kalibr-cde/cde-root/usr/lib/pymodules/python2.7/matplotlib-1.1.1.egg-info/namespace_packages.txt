@@ -1,0 +1,1 @@
+./../../../../..//usr/share/pyshared/matplotlib-1.1.1.egg-info/namespace_packages.txt

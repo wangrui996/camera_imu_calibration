@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: dblatex
+Version: 0.3.4-1
+Summary: DocBook to LaTeX/ConTeXt Publishing
+Home-page: http://dblatex.sf.net
+Author: Benoit Guillon
+Author-email: marsgui@users.sourceforge.net
+License: GPL Version 2 or later
+Description: 
+               dblatex is a program that transforms your SGML/XML DocBook documents to
+               DVI, PostScript or PDF by translating them into pure LaTeX as a first
+               process.  MathML 2.0 markups are supported, too. It started as a clone
+               of DB2LaTeX.
+               
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing :: Markup :: XML
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)

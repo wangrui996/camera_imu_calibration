@@ -1,0 +1,1 @@
+../../../../share/pyshared/pyenchant-1.6.5.egg-info/top_level.txt

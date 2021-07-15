@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_robot_steering
+Version: 0.3.3
+Summary: rqt_robot_steering provides a GUI plugin for steering a robot using Twist messages.
+Home-page: http://ros.org/wiki/rqt_robot_steering
+Author: Aaron Blasdel <ablasdel@willowgarage.com>, Isaac Saito <isao.saito@mavs.uta.edu>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

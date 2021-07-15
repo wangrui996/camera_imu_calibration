@@ -1,0 +1,1 @@
+./../../../../..//usr/share/pyshared/rosinstall-0.7.3.egg-info/top_level.txt

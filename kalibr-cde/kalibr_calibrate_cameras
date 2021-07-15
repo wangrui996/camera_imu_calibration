@@ -1,0 +1,66 @@
+#!/bin/bash
+#Thomas Schneider, 2014
+
+#########################
+# CONFIG
+#########################
+CDE_TARGET_SCRIPT=kalibr_calibrate_cameras
+CDE_PATH=/var/kalibr-build/kalibr-cde
+
+#########################
+# WRAP PATHS AND EXEC
+#########################
+#get the script location (=cde package path)
+pushd `dirname $0` > /dev/null
+HERE=`pwd -P`
+popd > /dev/null
+
+#get the caller location
+pushd `dirname .` > /dev/null
+CALLER=`pwd -P`
+popd > /dev/null
+
+#wrap relative paths to absolute
+args=()
+for var in "$@"
+do
+    #if this is a file (=exists)
+    if [ -f $var ]
+    then
+        #replace paths
+        pushd `dirname $var` > /dev/null
+        ABS_PATH=`pwd -P`
+        popd > /dev/null
+        args+=($ABS_PATH"/"$(basename $var))
+    elif [ -d $var ]
+    then
+        #its a directory
+	      pushd `dirname $var` > /dev/null
+        ABS_PATH=`pwd -P`
+        popd > /dev/null
+        args+=($ABS_PATH)
+    else
+        #its not a file or directory
+        args+=("$var")
+    fi
+done
+
+#wrapped arg string
+arg_string=$(echo ${args[*]})
+
+#delete old results
+rm -f $HERE/*.pdf 2> /dev/null
+rm -f $HERE/*.yaml 2> /dev/null
+rm -f $HERE/*.txt 2> /dev/null
+rm -f $HERE/*.bag 2> /dev/null
+rm -rf $HERE/cde-root/output* 2> /dev/null
+
+cd "$HERE/cde-root" 
+../cde-exec '-o' $CDE_PATH $CDE_TARGET_SCRIPT $arg_string
+
+#move new results to caller location
+mv -f $HERE/cde-root/*.pdf $CALLER 2> /dev/null
+mv -f $HERE/cde-root/*.yaml $CALLER 2> /dev/null
+mv -f $HERE/cde-root/*.txt $CALLER 2> /dev/null
+mv -f $HERE/cde-root/*.bag $CALLER 2> /dev/null
+mv -f $HERE/cde-root/output* $CALLER 2> /dev/null

@@ -1,0 +1,1 @@
+./../../../../../..//usr/share/pyshared/rosdistro/manifest_provider/git.py

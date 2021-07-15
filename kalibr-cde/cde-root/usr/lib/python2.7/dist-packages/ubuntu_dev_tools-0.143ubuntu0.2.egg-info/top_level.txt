@@ -1,0 +1,1 @@
+../../../../share/pyshared/ubuntu_dev_tools-0.143ubuntu0.2.egg-info/top_level.txt

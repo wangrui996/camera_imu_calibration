@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: pycallgraph
+Version: 0.5.1
+Summary: Python Call Graph uses GraphViz to generate call graphs from one execution of your Python code.
+Home-page: http://pycallgraph.slowchop.com/
+Author: Gerald Kaszuba
+Author-email: pycallgraph@slowchop.com
+License: UNKNOWN
+Download-URL: http://pycallgraph.slowchop.com/files/download/pycallgraph-0.5.1.tar.gz
+Description: Python Call Graph uses GraphViz to generate call graphs from one execution
+        of your Python code. It's very easy to use and can point out possible problems
+        with your code execution.
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Testing
+Classifier: Topic :: Software Development :: Debuggers

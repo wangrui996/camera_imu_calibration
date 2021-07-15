@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: pluginlib
+Version: 1.9.24
+Summary: The pluginlib package provides tools for writing and dynamically loading plugins using the ROS build infrastructure.
+    To work, these tools require plugin providers to register their plugins in t...
+Home-page: http://www.ros.org/wiki/pluginlib
+Author: Esteve Fernandez
+Author-email: esteve@osrfoundation.org
+License: BSD, Boost Software License
+Description: The pluginlib package provides tools for writing and dynamically loading plugins using the ROS build infrastructure.
+            To work, these tools require plugin providers to register their plugins in the package.xml of their package.
+Platform: UNKNOWN

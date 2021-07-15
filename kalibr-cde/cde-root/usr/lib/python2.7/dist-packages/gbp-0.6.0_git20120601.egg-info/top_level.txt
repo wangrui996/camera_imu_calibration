@@ -1,0 +1,1 @@
+../../../../share/pyshared/gbp-0.6.0_git20120601.egg-info/top_level.txt

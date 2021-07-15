@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: tf
+Version: 1.10.8
+Summary: tf is a package that lets the user keep track of multiple coordinate
+frames over time. tf maintains the relationship between coordinate
+frames in a tree structure buffered in time, and lets the use...
+Home-page: http://www.ros.org/wiki/tf
+Author: Tully Foote
+Author-email: tfoote@willowgarage.com
+License: BSD
+Description: tf is a package that lets the user keep track of multiple coordinate
+        frames over time. tf maintains the relationship between coordinate
+        frames in a tree structure buffered in time, and lets the user
+        transform points, vectors, etc between any two coordinate frames at
+        any desired point in time.
+Platform: UNKNOWN
+Requires: genmsg
+Requires: genpy
+Requires: roslib
+Requires: rospkg
+Requires: geometry_msgs
+Requires: sensor_msgs
+Requires: std_msgs

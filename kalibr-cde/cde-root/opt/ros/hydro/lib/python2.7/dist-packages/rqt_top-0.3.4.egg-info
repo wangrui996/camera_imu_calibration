@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_top
+Version: 0.3.4
+Summary: RQT plugin for monitoring ROS processes.
+Home-page: http://ros.org/wiki/rqt_top
+Author: Dan Lazewatsky <dan@lazewatsky.com>, Isaac Saito <isao.saito@mavs.uta.edu>
+Author-email: dan@lazewatsky.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

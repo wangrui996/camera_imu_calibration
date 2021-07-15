@@ -1,0 +1,1 @@
+./../../../../..//usr/share/pyshared/reportbug-6.4.3ubuntu1.egg-info/top_level.txt

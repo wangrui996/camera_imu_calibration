@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: qt_gui_app
+Version: 0.2.22
+Summary: qt_gui_app provides the main to start an instance of the integrated graphical user interface provided by qt_gui.
+Home-page: http://ros.org/wiki/qt_gui_app
+Author: Dirk Thomas
+Author-email: dthomas@osrfoundation.org
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

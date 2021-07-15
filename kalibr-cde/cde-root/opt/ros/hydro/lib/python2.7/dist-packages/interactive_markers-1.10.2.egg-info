@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: interactive_markers
+Version: 1.10.2
+Summary: 3D interactive marker communication library for RViz and similar tools.
+Home-page: http://ros.org/wiki/interactive_markers
+Author: David Gossow
+Author-email: dgossow@willowgarage.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

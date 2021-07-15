@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: bzr-builddeb
+Version: 2.7.0
+Summary: Build a .deb from a bzr branch
+Home-page: http://jameswestby.net/bzr/bzr-builddeb/
+Author: James Westby
+Author-email: jw+debian@jameswestby.net
+License: GNU GPL v2
+Description: UNKNOWN
+Platform: UNKNOWN

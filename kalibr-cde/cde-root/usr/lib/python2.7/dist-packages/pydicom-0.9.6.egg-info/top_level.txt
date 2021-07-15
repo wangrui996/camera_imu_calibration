@@ -1,0 +1,1 @@
+../../../../share/pyshared/pydicom-0.9.6.egg-info/top_level.txt

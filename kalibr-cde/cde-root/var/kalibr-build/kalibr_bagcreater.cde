@@ -1,0 +1,2 @@
+#!/bin/sh
+../../../cde-exec '-o' '/var/kalibr-build/kalibr-cde' 'kalibr_bagcreater' "$@"

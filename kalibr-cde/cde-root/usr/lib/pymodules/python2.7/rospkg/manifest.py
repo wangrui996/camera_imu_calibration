@@ -1,0 +1,1 @@
+./../../../../..//usr/share/pyshared/rospkg/manifest.py

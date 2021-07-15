@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<package>
+  <name>urdfdom_headers</name>
+  <version>0.2.3</version>
+  <description>C++ Headers for URDF</description>
+  <maintainer email="hsu@osrfoundation.org">John Hsu</maintainer>
+  <maintainer email="isucan@willowgarage.com">Ioan Sucan</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/urdf</url>
+  <url type="bugtracker">https://bitbucket.org/osrf/urdfdom_headers</url>
+  <url type="repository">https://bitbucket.org/osrf/urdfdom_headers</url>
+  <author>Wim Meeussen</author>
+  <author>John Hsu</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>boost</build_depend>
+  <build_depend>console_bridge</build_depend>
+  <build_depend>tinyxml</build_depend>
+
+  <run_depend>boost</run_depend>
+  <run_depend>catkin</run_depend>
+  <run_depend>console_bridge</run_depend>
+  <run_depend>tinyxml</run_depend>
+  
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+  
+</package>

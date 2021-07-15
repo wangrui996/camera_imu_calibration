@@ -1,0 +1,37 @@
+<package>
+  <name>urdf</name>
+  <version>1.10.18</version>
+  <description>
+    This package contains a C++ parser for the Unified Robot Description
+    Format (URDF), which is an XML format for representing a robot model. 
+    The code API of the parser has been through our review process and will remain
+    backwards compatible in future releases.
+  </description>
+
+  <author>Ioan Sucan</author>
+  <maintainer email="isucan@gmail.com">Ioan Sucan</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/urdf</url>
+  <url type="repository">https://github.com/ros/robot_model</url>
+  <url type="bugtracker">https://github.com/ros/robot_model/issues</url>
+
+  <buildtool_depend version_gte="0.5.68">catkin</buildtool_depend>
+
+  <build_depend>rosconsole_bridge</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>urdfdom</build_depend>
+  <build_depend>urdfdom_headers</build_depend>
+  <build_depend>urdf_parser_plugin</build_depend>
+  <build_depend>pluginlib</build_depend>
+  <build_depend>cmake_modules</build_depend>
+
+  <run_depend>rosconsole_bridge</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>urdfdom</run_depend>
+  <run_depend>urdfdom_headers</run_depend>
+  <run_depend>urdf_parser_plugin</run_depend>
+  <run_depend>pluginlib</run_depend>
+
+</package>

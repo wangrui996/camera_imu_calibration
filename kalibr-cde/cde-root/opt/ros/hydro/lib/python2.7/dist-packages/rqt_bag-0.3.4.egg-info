@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_bag
+Version: 0.3.4
+Summary: rqt_bag provides a GUI plugin for displaying and replaying ROS bag files.
+Home-page: http://ros.org/wiki/rqt_bag
+Author: Aaron Blasdel <ablasdel@willowgarage.com>, Isaac Saito <isao.saito@mavs.uta.edu>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

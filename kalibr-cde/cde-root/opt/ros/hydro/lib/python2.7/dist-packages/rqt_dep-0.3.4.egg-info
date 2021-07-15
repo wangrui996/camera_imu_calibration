@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_dep
+Version: 0.3.4
+Summary: rqt_dep provides a GUI plugin for visualizing the ROS dependency graph.
+Home-page: http://ros.org/wiki/rqt_dep
+Author: Aaron Blasdel <ablasdel@willowgarage.com>, Isaac Saito <isao.saito@mavs.uta.edu>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

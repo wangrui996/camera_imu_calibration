@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: guiqwt
+Version: 2.1.6
+Summary: guiqwt is a set of tools for curve and image plotting (extension to PyQwt 5.2)
+Home-page: http://www.cea.fr
+Author: Pierre Raybaut
+Author-email: pierre.raybaut@cea.fr
+License: UNKNOWN
+Download-URL: http://guiqwt.googlecode.com/files/guiqwt-2.1.6.zip
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: OS Independent
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 2.6
+Requires: PyQt4 (>4.3)
+Requires: NumPy
+Requires: guidata (>=1.3.0)

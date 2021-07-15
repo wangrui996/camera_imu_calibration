@@ -1,0 +1,24 @@
+# cde.options v1 (do not alter this first line!)
+ 
+ ignore_prefix=/
+ redirect_prefix=/etc/
+ redirect_prefix=/bin/
+ redirect_prefix=/lib/
+ redirect_prefix=/lib32/
+ redirect_prefix=/lib64/
+ redirect_prefix=/usr/
+ redirect_prefix=/opt/
+ redirect_prefix=/var/kalibr-build/
+ redirect_prefix=/var/kalibr-build
+ 
+ ignore_prefix=/etc/passwd
+ ignore_prefix=/etc/shadow
+ ignore_substr=.Xauthority
+ 
+ ignore_environment_var=DBUS_SESSION_BUS_ADDRESS
+ ignore_environment_var=ORBIT_SOCKETDIR
+ ignore_environment_var=SESSION_MANAGER
+ ignore_environment_var=XAUTHORITY
+ ignore_environment_var=DISPLAY
+ ignore_environment_var=HOME
+ ignore_environment_var=USER

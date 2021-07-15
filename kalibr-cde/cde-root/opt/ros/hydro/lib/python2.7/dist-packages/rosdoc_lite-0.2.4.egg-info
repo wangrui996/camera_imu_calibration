@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: rosdoc_lite
+Version: 0.2.4
+Summary: This ROS package wraps documentation tools like doxygen, sphinx,
+    and epydoc, making it convenient to generate ROS package
+    documentation.
+
+    It also generates online documentation for the ...
+Home-page: http://wiki.ros.org/rosdoc_lite
+Author: Jack O'Quin
+Author-email: jack.oquin@gmail.com
+License: BSD
+Description: This ROS package wraps documentation tools like doxygen, sphinx,
+            and epydoc, making it convenient to generate ROS package
+            documentation.
+        
+            It also generates online documentation for the ROS wiki.
+Platform: UNKNOWN

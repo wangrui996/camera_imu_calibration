@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_plot
+Version: 0.3.4
+Summary: rqt_plot provides a GUI plugin visualizing numeric values in a 2D plot using different plotting backends.
+Home-page: http://ros.org/wiki/rqt_plot
+Author: Dorian Scholz <scholz@sim.tu-darmstadt.de>, Isaac Saito <isao.saito@mavs.uta.edu>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

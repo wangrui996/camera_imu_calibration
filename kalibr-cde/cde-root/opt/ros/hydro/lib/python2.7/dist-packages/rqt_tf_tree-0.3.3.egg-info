@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_tf_tree
+Version: 0.3.3
+Summary: rqt_tf_tree provides a GUI plugin for visualizing the ROS TF frame tree.
+Home-page: http://ros.org/wiki/rqt_tf_tree
+Author: Isaac Saito
+Author-email: isao.saito@mavs.uta.edu
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

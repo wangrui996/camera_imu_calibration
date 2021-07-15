@@ -1,0 +1,1 @@
+../../../../share/pyshared/software_center_aptd_plugins-0.0.0.egg-info/top_level.txt

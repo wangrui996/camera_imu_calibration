@@ -1,0 +1,1 @@
+../../../../share/pyshared/Sphinx-1.1.3.egg-info/top_level.txt

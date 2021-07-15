@@ -1,0 +1,1 @@
+../../../../share/pyshared/dirspec-4.0.0.egg-info/top_level.txt
